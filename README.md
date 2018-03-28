@@ -1,6 +1,6 @@
 # Oni configuration
 
-Here lay available an [onivim](https://onivim.io) configuration folder.
+Here lay available an [onivim](https://www.onivim.io) configuration folder.
 
 This is catered to my own preference, however anyone is free to
 make use of this configuration.
