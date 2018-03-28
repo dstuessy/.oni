@@ -1,11 +1,9 @@
 [submodule "plugins/ale"]
-    path = "plugins/ale"
-    url = https://github.com/w0rp/ale.git
-
+	path = plugins/ale
+	url = https://github.com/w0rp/ale.git
 [submodule "plugins/editorconfig-vim"]
-    path = "plugins/editorconfig-vim"
-    url = https://github.com/editorconfig/editorconfig-vim.git
-
+	path = plugins/editorconfig-vim
+	url = https://github.com/editorconfig/editorconfig-vim.git
 [submodule "plugins/emmet-vim"]
-    path = "plugins/emmet-vim"
-    url = https://github.com/mattn/emmet-vim.git
+	path = plugins/emmet-vim
+	url = https://github.com/mattn/emmet-vim.git
