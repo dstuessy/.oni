@@ -7,3 +7,6 @@
 [submodule "plugins/emmet-vim"]
 	path = plugins/emmet-vim
 	url = https://github.com/mattn/emmet-vim.git
+[submodule "plugins/vim-jinja"]
+	path = plugins/vim-jinja
+	url = https://github.com/lepture/vim-jinja.git
