@@ -10,3 +10,6 @@
 [submodule "plugins/vim-jinja"]
 	path = plugins/vim-jinja
 	url = https://github.com/lepture/vim-jinja.git
+[submodule "plugins/vim-mustache-handlebars"]
+	path = plugins/vim-mustache-handlebars
+	url = https://github.com/mustache/vim-mustache-handlebars.git
