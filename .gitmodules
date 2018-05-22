@@ -13,3 +13,6 @@
 [submodule "plugins/vim-mustache-handlebars"]
 	path = plugins/vim-mustache-handlebars
 	url = https://github.com/mustache/vim-mustache-handlebars.git
+[submodule "plugins/vim-gitgutter"]
+	path = plugins/vim-gitgutter
+	url = git@github.com:airblade/vim-gitgutter.git
