@@ -23,8 +23,6 @@ exports.configuration = {
     //"oni.useDefaultConfig": true,
     //"oni.bookmarks": ["~/Documents"],
     //"oni.loadInitVim": false,
-    "editor.fontSize": "16px",
-    "editor.fontFamily": "Inconsolata",
     // UI customizations
     "ui.animations.enabled": true,
     "ui.fontSmoothing": "auto"
