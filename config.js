@@ -19,6 +19,8 @@ exports.configuration = {
     //add custom config here, such as
     "vim.setting.relativenumber": true,
     "vim.setting.number": true,
+    "vim.setting.foldenable": true,
+    "vim.setting.foldmethod": "indent",
     "ui.colorscheme": "onedark",
     //"oni.useDefaultConfig": true,
     //"oni.bookmarks": ["~/Documents"],
